@@ -1,0 +1,8 @@
+L = 25 kW
+nb_slots = 36 slots (10 min per slot)
+C0 = 2.8e-6 $/kW/s (slope 1 in the BC Hydro model)
+C1 = 2.8e-8 $/kW^2/s
+
+2                       # 2 users
+1 30 12.5		# 5 h at 12.5 kW
+1 12 50			# 2 h at 50 kW

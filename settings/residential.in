@@ -1,0 +1,10 @@
+L = 3000 kW
+nb_slots = 36 slots (10 min/slot)
+C0 = 2.8e-6 $/kW/s (slope 1 in the BC Hydro model)
+C1 = 2.8e-8 $/kW^2/s
+
+1
+1000 6 20
+
+# 1000 users
+# 20 kW during 1 h => 20 kWh per user
