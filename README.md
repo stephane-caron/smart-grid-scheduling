@@ -1,15 +1,16 @@
 DR StartComp
 ============
 
+DR StratComp stands for Demand-Response Strategies Comparator. Its purpose is
+to assess the efficiency of different energy-consumption scheduling algorithms
+in a smart power grid.
+
 This is the code associated with the paper *Incentive-based Energy Consumption
 Scheduling Algorithms for the Smart Grid*. I wrote it in 2010 during my
 internship with Pr George Kesidis at Penn State University. For more
 information about this work, see
-    https://scaron.info/research/conf/smartgridcomm-2010.html
 
-DR StratComp is a project stands for Demand-Response Strategies Comparator. Its
-purpose is to assess the efficiency of different Energy Consumption Scheduling
-algorithms in a Smart Grid.
+    https://scaron.info/research/conf/smartgridcomm-2010.html
 
 Installation
 ============
@@ -22,8 +23,8 @@ Execution goes through the main.py file:
 
 Look at the source code to find the different default scenarii available.
 
-Writing your own Test Cases
-===========================
+Writing your own test case
+==========================
 
 Format of the input files is rather loose. First four lines describe (in that
 order) the values of L, the number of slots, C0 (constant cost) and C1 (overage
