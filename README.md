@@ -1,5 +1,8 @@
 # DR StartComp
 
+[![License](https://img.shields.io/badge/License-GPLv2-green.svg)](https://opensource.org/licenses/GPL-2.0)
+![Status](https://img.shields.io/badge/status-archive-lightgrey.svg)
+
 DR StratComp stands for Demand-Response Strategies Comparator. Its purpose is
 to assess the efficiency of different energy-consumption scheduling algorithms
 in a smart power grid. This is the code associated with the paper
